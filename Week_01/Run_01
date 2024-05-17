@@ -1,0 +1,41 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.print("Yo Mama");
+		System.out.println(" so fat-");
+		System.out.print("Entah punchline\n");
+		System.out.print("\t\\Shit \"Hillarious\"\n");
+		
+		// boom! Comment!
+		
+		/*
+		 * 
+		 * Boom!
+		 * more
+		 * bloody
+		 * comments
+		 * 
+		 */
+		
+		int x = 123;
+		
+		System.out.println(x);
+		System.out.println("x");
+		
+		long y = 12923801018934830L;
+		float z = 3.1416f;
+		double zz = 3.1428992;
+		boolean q = false;
+		char symbol = '&';
+		String name = "braHIM";
+		
+		System.out.println(z);
+		System.out.println(y);
+		System.out.println(zz);
+		
+		System.out.println(q);
+		System.out.println(symbol+" "+name+" 'sup bro?");
+	}
+
+}
