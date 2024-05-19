@@ -1,0 +1,20 @@
+import javax.swing.JOptionPane;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		String name = JOptionPane.showInputDialog(null, "Entah yo name boyo: ");
+		JOptionPane.showMessageDialog(null, "Hello "+name);
+		
+		int age = Integer.parseInt(JOptionPane.showInputDialog(null, "Entah them age: "));
+		JOptionPane.showMessageDialog(null, age+"?? Real old manh.");
+		
+		double height = Double.parseDouble(JOptionPane.showInputDialog(null, "Whatcha tallness?"));
+		JOptionPane.showMessageDialog(null, "Shees you a short "+height+" manh.");
+		
+				
+	}
+
+}
