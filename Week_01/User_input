@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+	Scanner scanner = new Scanner(System.in);
+	
+	System.out.println("Who are yeh?: ");
+	String name = scanner.nextLine();
+	System.out.println("How old yeh?: ");
+	int age = scanner.nextInt();
+	scanner.nextLine();
+	System.out.println("What fuel you consume?: ");
+	String food = scanner.nextLine();
+	
+	System.out.println("Please KYS dear "+name+".");
+	System.out.println(age+"??? Bruv, you ain't old, you ancient.");
+	System.out.println(food+" - Ah, yes. Truly the palette of a 12 year old.");
+				
+	}
+
+}
