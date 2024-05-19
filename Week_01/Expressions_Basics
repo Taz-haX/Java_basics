@@ -1,0 +1,20 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+	double eat = 10;
+	eat = eat/3;
+	
+	eat++;
+	eat--;
+	
+	System.out.println(eat);
+	
+	eat++;
+	//eat--;
+	
+	System.out.println(eat);
+				
+	}
+
+}
