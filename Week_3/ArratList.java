@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 
 
-public class Main {
+public class ArratList {
 
 	public static void main(String[] args) {
 		
