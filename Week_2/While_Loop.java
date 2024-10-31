@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class While_Loop {
 
 	public static void main(String[] args) {
 		
