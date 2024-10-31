@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 
 
-public class Main {
+public class for_each_loop {
 
 	public static void main(String[] args) {
 		
