@@ -3,7 +3,7 @@
 //import java.util.ArrayList;
 //import java.util.Random;
 
-public class Main {
+public class Variable_scope {
 
 	public static void main(String[] args) {	
 		
